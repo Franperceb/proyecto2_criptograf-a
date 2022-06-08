@@ -1,1 +1,1 @@
-# proyecto2_criptograf-a
+# proyecto2_criptografía
